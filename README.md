@@ -135,7 +135,7 @@ The central design principle is:
 ## 2. Repository Structure
 
 ```text
-naukr-ai-retail/
+Retail Data & Conversational Intelligence Workbench/
 │
 ├── app/
 │   ├── api/
@@ -211,7 +211,7 @@ Clone the repository and enter the project directory:
 
 ```bash
 git clone <YOUR_REPOSITORY_URL>
-cd naukr-ai-retail
+cd Retail Data & Conversational Intelligence Workbench
 ```
 
 Create and activate a virtual environment:
